@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Insti\\DAM2\\Trimestre1\\DI\\UD2\\cartas_di\\CartaBaraja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Insti\\DAM2\\Trimestre1\\DI\\UD2\\cartas_di\\CartaBaraja\\Programa\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Programa\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Insti\\DAM2\\Trimestre1\\DI\\UD2\\cartas_di\\CartaBaraja\\CartaBaraja\\Deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CartaBaraja\\Deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Insti\\DAM2\\Trimestre1\\DI\\UD2\\cartas_di\\CartaBaraja\\CartaBaraja\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CartaBaraja\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Insti\\DAM2\\Trimestre1\\DI\\UD2\\cartas_di\\CartaBaraja\\Programa\\Program.cs",
+              "RelativeDocumentMoniker": "Programa\\Program.cs",
+              "ToolTip": "D:\\Insti\\DAM2\\Trimestre1\\DI\\UD2\\cartas_di\\CartaBaraja\\Programa\\Program.cs",
+              "RelativeToolTip": "Programa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T23:37:59.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "D:\\Insti\\DAM2\\Trimestre1\\DI\\UD2\\cartas_di\\CartaBaraja\\CartaBaraja\\Deck.cs",
+              "RelativeDocumentMoniker": "CartaBaraja\\Deck.cs",
+              "ToolTip": "D:\\Insti\\DAM2\\Trimestre1\\DI\\UD2\\cartas_di\\CartaBaraja\\CartaBaraja\\Deck.cs",
+              "RelativeToolTip": "CartaBaraja\\Deck.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T23:34:50.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\Insti\\DAM2\\Trimestre1\\DI\\UD2\\cartas_di\\CartaBaraja\\CartaBaraja\\Card.cs",
+              "RelativeDocumentMoniker": "CartaBaraja\\Card.cs",
+              "ToolTip": "D:\\Insti\\DAM2\\Trimestre1\\DI\\UD2\\cartas_di\\CartaBaraja\\CartaBaraja\\Card.cs",
+              "RelativeToolTip": "CartaBaraja\\Card.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEwAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T23:33:35.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

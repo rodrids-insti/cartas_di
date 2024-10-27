@@ -1,0 +1,12 @@
+C:\Users\RodriDS\Desktop\CartaBaraja\CartaBaraja\bin\Debug\CartaBaraja.dll
+C:\Users\RodriDS\Desktop\CartaBaraja\CartaBaraja\bin\Debug\CartaBaraja.pdb
+C:\Users\RodriDS\Desktop\CartaBaraja\CartaBaraja\obj\Debug\CartaBaraja.csproj.AssemblyReference.cache
+C:\Users\RodriDS\Desktop\CartaBaraja\CartaBaraja\obj\Debug\CartaBaraja.csproj.CoreCompileInputs.cache
+C:\Users\RodriDS\Desktop\CartaBaraja\CartaBaraja\obj\Debug\CartaBaraja.dll
+C:\Users\RodriDS\Desktop\CartaBaraja\CartaBaraja\obj\Debug\CartaBaraja.pdb
+D:\Insti\DAM2\Trimestre1\DI\UD2\cartas_di\CartaBaraja\CartaBaraja\bin\Debug\CartaBaraja.dll
+D:\Insti\DAM2\Trimestre1\DI\UD2\cartas_di\CartaBaraja\CartaBaraja\bin\Debug\CartaBaraja.pdb
+D:\Insti\DAM2\Trimestre1\DI\UD2\cartas_di\CartaBaraja\CartaBaraja\obj\Debug\CartaBaraja.csproj.AssemblyReference.cache
+D:\Insti\DAM2\Trimestre1\DI\UD2\cartas_di\CartaBaraja\CartaBaraja\obj\Debug\CartaBaraja.csproj.CoreCompileInputs.cache
+D:\Insti\DAM2\Trimestre1\DI\UD2\cartas_di\CartaBaraja\CartaBaraja\obj\Debug\CartaBaraja.dll
+D:\Insti\DAM2\Trimestre1\DI\UD2\cartas_di\CartaBaraja\CartaBaraja\obj\Debug\CartaBaraja.pdb
